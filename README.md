@@ -1,2 +1,2 @@
 # repositorio-final-de-prep-course
-hola mundo
+este repositorio es una prueba de como clonarlo de github a mi computadora
